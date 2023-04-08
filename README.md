@@ -1,2 +1,2 @@
 # nnga
-Neural Networks and Generic Algorithms HW
+Neural Networks and Generic Algorithms Work & HW
