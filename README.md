@@ -16,5 +16,5 @@ Neural Networks and Generic Algorithms Work & HW<br>
 <br>
 Completed work:
 
-- [ ] Divorce Predictors
+- [x] Divorce Predictors
 - [ ] Fertility
