@@ -14,7 +14,7 @@ Neural Networks and Generic Algorithms Work & HW<br>
     5. MLP
 
 <br>
-Done:
+Completed work:
 
 - [ ] Divorce Predictors
 - [ ] Fertility
