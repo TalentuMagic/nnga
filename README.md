@@ -7,4 +7,8 @@ Neural Networks and Generic Algorithms Work & HW<br>
     1. https://archive.ics.uci.edu/ml/datasets/Divorce+Predictors+data+set
     2. https://archive.ics.uci.edu/ml/datasets/Fertility
 2. Using:
-    1. Tensorflow Keras, Perceptron, NB, DecisionTreeClassifier, MLP
+    1. Tensorflow Keras
+    2. Perceptron
+    3. NB
+    4. DecisionTreeClassifier
+    5. MLP
