@@ -12,8 +12,5 @@ Neural Networks and Generic Algorithms Work & HW<br>
     3. NB
     4. DecisionTreeClassifier
     5. MLP
-<br>
-Completed work:
-<br>
 - [ ] Divorce Predictors
 - [ ] Fertility
